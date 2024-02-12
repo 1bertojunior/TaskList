@@ -5,6 +5,8 @@ Bem-vindo ao TaskList, um projeto web de gerenciamento de tarefas que utiliza HT
 
 O Projeto TaskList é uma aplicação web para gerenciamento de tarefas, projetada para organizar suas atividades diárias. Utilizando uma combinação de tecnologias front-end (HTML, CSS, Bootstrap e JavaScript) e back-end (PHP e MySQL), esta aplicação proporciona uma solução para o gerenciamento de tarefas.
 
+![Exemplo de uma das páginas do projeto](img/screenshot.spng)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação da interface do usuário.
